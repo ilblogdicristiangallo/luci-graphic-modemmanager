@@ -27,7 +27,10 @@ Bands are **read dynamically from the modem** (`supported-bands` / `current-band
 
 ### Diagnostics
 
-![Diagnostics](docs/screenshots/Screenshot-graphic-modemmanager3.png.png)
+![Diagnostics2](docs/screenshots/Screenshot4.png)
+
+### Configuration
+![Configuration](docs/screenshots/Screenshot-graphic-modemmanager3.png)
 
 ---
 

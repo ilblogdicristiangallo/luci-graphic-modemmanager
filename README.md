@@ -15,7 +15,7 @@ Bands are **read dynamically from the modem** (`supported-bands` / `current-band
 
 ### Modem(s)
 
-![Modem(s)](docs/screenshots/Screenshot1.png)
+![Modem(s)](docs/screenshots/Screenshot0.png)
 
 ### LTE bands
 

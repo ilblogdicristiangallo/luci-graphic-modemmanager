@@ -15,15 +15,19 @@ Bands are **read dynamically from the modem** (`supported-bands` / `current-band
 
 ### Modem(s)
 
-![Modem(s)](docs/screenshots/Screenshot0.png)
+![Modem(s)](docs/screenshots/Screenshot-graphic-modemmanager.png)
 
-### LTE bands
+### Signal
 
-![LTE bands](docs/screenshots/Screenshot2.png)
+![Signal bands](docs/screenshots/Screenshot-graphic-modemmanager2.png)
+
+### SET BAND LTE and 5G
+
+![SET BAND LTE](docs/screenshots/Screenshot3.png)
 
 ### Diagnostics
 
-![Diagnostics](docs/screenshots/Screenshot4.png)
+![Diagnostics](docs/screenshots/Screenshot-graphic-modemmanager3.png.png)
 
 ---
 

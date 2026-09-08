@@ -13,15 +13,19 @@ Bands are **read dynamically from the modem** (`supported-bands` / `current-band
 
 ## Screenshots
 
-Put PNG/WebP files in [`docs/screenshots/`](docs/screenshots/). Until a file exists, GitHub may show a broken image — replace as soon as you have captures.
+### Modem(s)
 
-| Modem(s) | LTE bands | 5G SA |
-|:--------:|:---------:|:-----:|
-| ![Modem(s)](docs/screenshots/01-modems.png) | ![LTE bands](docs/screenshots/02-lte-bands.png) | ![5G SA](docs/screenshots/03-5g-sa.png) |
+![Modem(s)](docs/screenshots/Screenshot1.png)
 
-| 5G NSA | Diagnostics | Configuration |
-|:------:|:-----------:|:-------------:|
-| ![5G NSA](docs/screenshots/04-5g-nsa.png) | ![Diagnostics](docs/screenshots/05-diagnostics.png) | ![Configuration](docs/screenshots/06-configuration.png) |
+### LTE bands
+
+![LTE bands](docs/screenshots/Screenshot2.png)
+
+### Diagnostics
+
+![Diagnostics](docs/screenshots/Screenshot4.png)
+
+---
 
 ## Features
 
@@ -36,7 +40,7 @@ Put PNG/WebP files in [`docs/screenshots/`](docs/screenshots/). Until a file exi
 
 Same UI style for LTE and 5G: clickable badges, green = on, grey = off.
 
-# Apply always uses ModemManager:
+### Apply always uses ModemManager
 
 ```sh
 mmcli -m 0 --set-current-bands="eutran-3|eutran-20"
